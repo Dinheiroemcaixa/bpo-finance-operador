@@ -1,0 +1,5 @@
+{
+  "name": "BPO Finance operador financeiro",
+  "description": "A comprehensive financial management application for BPO services, allowing users to manage payments, transfers, and budgets for multiple stores organized into groups. Features include DDA import from Excel, detailed scheduling, and advanced Excel report generation.",
+  "requestFramePermissions": []
+}
